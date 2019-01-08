@@ -1,9 +1,9 @@
 # Car Renting With JAVA & MySQL
 > Car renting desktop apps written with JAVA and MySQL
 
-[java-image] 
-[mysql-image]
-[![Build Status][travis-image]]
+![java-image]
+![mysql-image]
+![travis-image]
 
 For my semester project. Implementing JAVA GUI and MySQL CRUD in Java, Mixed with HTML Jquery append (using java browser) for displaying data
 
