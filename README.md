@@ -23,5 +23,5 @@ Import this to your workspace/project, Import the SQL to your localhost sql serv
 
 <!-- Markdown link & img dfn's -->
 [java-image]: https://img.shields.io/badge/Java%20Version-1.8.0-brightgreen.svg
-[travis-image]:	https://img.shields.io/appveyor/ci/gruntjs/grunt.svgi
+[travis-image]:	https://img.shields.io/appveyor/ci/gruntjs/grunt.svg
 [mysql-image]: https://img.shields.io/badge/MySQL-5.7.23-blue.svg
